@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{16A471C7-F237-4A72-9000-FD493E427F9B}") = "External-Cheat-Menu", "External imgui\External-Cheat-Imgui.vcxproj", "{629FD78A-CEBF-48E4-9039-B90A3C5151AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629FD78A-CEBF-48E4-9039-B90A3C5151AD}.Debug|x64.ActiveCfg = Debug|x64
+		{629FD78A-CEBF-48E4-9039-B90A3C5151AD}.Debug|x64.Build.0 = Debug|x64
+		{629FD78A-CEBF-48E4-9039-B90A3C5151AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{629FD78A-CEBF-48E4-9039-B90A3C5151AD}.Debug|x86.Build.0 = Debug|Win32
+		{629FD78A-CEBF-48E4-9039-B90A3C5151AD}.Release|x64.ActiveCfg = Release|x64
+		{629FD78A-CEBF-48E4-9039-B90A3C5151AD}.Release|x64.Build.0 = Release|x64
+		{629FD78A-CEBF-48E4-9039-B90A3C5151AD}.Release|x86.ActiveCfg = Release|Win32
+		{629FD78A-CEBF-48E4-9039-B90A3C5151AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C32710-EA95-40DB-8106-2B63884146AE}
+	EndGlobalSection
+EndGlobal
